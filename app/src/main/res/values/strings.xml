@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TaskManagerSummerPractice</string>
+    <string name="addTaskText">Добавить задачу</string>
+    <string name="addText">Добавить</string>
+    <string name="cancelText">Отмена</string>
+    <string name="nameText">Название</string>
+    <string name="hintText">Текст...</string>
+    <string name="saveText">Сохранить</string>
+    <string name="edit_button">Edit Button</string>
+    <string name="delete_button">Delete Button</string>
+</resources>
